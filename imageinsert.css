@@ -1,0 +1,14 @@
+*{
+  margin:0px;
+
+}
+.image{
+  width:100%;
+  height: 100vh;
+  animation:slide 20s infinite;
+}
+@keyframe slide{
+  33%{
+
+  }
+}
